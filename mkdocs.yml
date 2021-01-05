@@ -2,6 +2,7 @@ site_name: 'example-docs'
 
 nav:
   - Home: index.md
+  - About: about.md
 
 plugins:
   - techdocs-core
