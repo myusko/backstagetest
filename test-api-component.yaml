@@ -8,4 +8,5 @@ spec:
   type: openapi
   owner: john@example.com
   lifecycle: production
-  url: https://github.com/myusko/backstagetest/blob/main/test-oas-api.yaml
+  definition:
+    $text: https://github.com/myusko/backstagetest/blob/main/test-oas-api.yaml
