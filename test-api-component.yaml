@@ -3,6 +3,9 @@ kind: API
 metadata:
   name: test-api
   description: An example of an API service.
+  annotations:
+    # The annotation is deprecated, we use placeholders (see below) instead, remove it later.
+    backstage.io/definition-at-location: 'url:https://github.com/myusko/backstagetest/blob/main/test-oas-api.yaml'
 
 spec:
   type: openapi
