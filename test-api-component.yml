@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: test-library
+  description: An example of an API service.
+
+spec:
+  type: openapi
+  owner: john@example.com
+  lifecycle: production
