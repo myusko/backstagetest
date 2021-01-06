@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test-app
-  description: An example of a Backstage application.
+  name: test-library
+  description: An example of a Backstage library.
   annotations:
     backstage.io/techdocs-ref: dir:./
 
 spec:
-  type: website
+  type: library
   owner: john@example.com
   lifecycle: experimental

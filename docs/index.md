@@ -1,3 +1,3 @@
-# Example docs
+# Example documentation
 
-	This is a basic example of documentation
+	A package
