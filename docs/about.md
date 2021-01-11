@@ -1,1 +1,3 @@
-# ABOUT EXAMPLE
+# About page
+
+## Nice about page.
